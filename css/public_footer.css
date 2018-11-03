@@ -1,0 +1,29 @@
+.public-footer{
+	height: 178px;
+	background:#282828;
+	line-height: 25px;
+	padding-top: 80px;
+}
+
+.public-footer .footer-col{
+	width: 230px;
+	float: left;
+	margin-right: 4%;
+	font-size: 16px;
+	color: #fff;
+	line-height: 1.8;
+}
+.public-footer .footer-col:last-child{
+	margin-right: 0;
+	height: 131px;
+	width:23%;
+	background: url("../img/footer-logo.png") no-repeat;
+	margin-top: -30px;
+}
+.public-footer .footer-col a{
+	color: #fff;
+}
+.public-footer .footer-container{
+	position: relative;
+	margin:0 auto;
+}

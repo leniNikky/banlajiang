@@ -1,0 +1,23 @@
+body,div,ul,li,dl,dt,a,span,input,form,p,textarea,h1,h2,h3,h4,h5,h6{
+	margin: 0px;
+	padding: 0px;
+}
+
+ol,ul,li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+/*清除浮动*/
+.clearfloat{
+	clear: both;
+}
+
+.public-container{
+	position: relative;
+	margin:0 auto;
+	width: 80%;
+}
